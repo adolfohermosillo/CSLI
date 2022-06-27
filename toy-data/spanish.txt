@@ -1,0 +1,914 @@
+esta casa es grande
+esta casa no es grande
+esta casa es chica
+esta casa no es chica
+esta casa es nueva
+esta casa no es nueva
+esta casa es vieja
+esta casa no es vieja
+esta casa es blanca
+esta casa no es blanca
+¿  cómo es esa casa ? 
+¿  qué tan grande es esa casa ? 
+¿  es nueva esa casa ? 
+sí ,  es nueva
+no ,  no es nueva
+sí
+no
+yo soy alto
+tu eres alto
+él es alto
+ella es alta
+nosotros somos altos
+ustedes son altos
+ellos son altos
+yo soy chaparro
+tú eres chaparro
+el es chaparro
+nosotros somos chaparros
+ustedes son chaparros
+ellos son chaparros
+yo soy gordo
+tú eres gordo
+él es gordo
+nosotros somos gordos
+ustedes son gordos
+ellos son gordos
+yo soy flaco
+tú eres flaco
+él es flaco
+nosotros somos flacos
+ustedes son flacos
+ellos son flacos
+mi casa es grande
+la casa es grande
+la casa de él es grande
+nuestra casa es grande
+la casa de ustedes es grande
+la casa de ellos es grande
+el chile es rojo
+los chiles ya están rojos
+los chiles todavía no están rojos
+ese árbol es grande
+ese árbol va a ser grande
+ese árbol ya era grande
+ese árbol se volvió grande
+los chile se van a volver rojos
+este sombrero es igual al tuyo
+este sombrero no es igual al tuyo
+estos sombreros son diferentes
+¿  de qué color es esa falda ? 
+esa falda es blanca y negra
+¿  tu caballo es negro o blanco ? 
+mi caballo no es negro ni blanco es ,  bayo
+¿  cómo está la comida ? 
+¿  cómo está la comida ? 
+la comida está caliente
+la comida está fría
+el agua está muy fria
+el agua está bastante fría
+el agua está demasiado fría
+esa olla está sucia
+esa olla está sucia por dentro
+esa olla no está sucia
+esa olla no está sucia por dentro
+esa olla está limpia
+esa olla está limpia por dentro
+esa olla no está limpia
+esa olla no está limpia por dentro
+el pueblo está cerca de aquí
+el pueblo está lejos de aquí
+¿  está lejos el pueblo ? 
+juan ahora está en san andrés
+¿  dónde está juan ahora ? 
+¿  ahora está en san andrés ? 
+¿  en san andrés es donde está ? 
+ayer juan estuvo en san andrés
+¿  dónde estuvo juan ayer ? 
+¿  dónde está tu papá ? 
+¿  tu papá está en la casa ? 
+¿  tu papá no está en la casa ? 
+mi papá esta en la casa
+mi papá no esta en la casa
+mi papá siempre está en la casa
+mi papá siempre está en la casa
+mi papá está en la milpa
+mi papá está en el mercado
+mi papá está en el río
+mi papá está con don manuel
+¿  con quién está tu papá ? 
+¿  está tu papá ? 
+¿  dónde está la olla ? 
+¿  dónde está el machete ? 
+la olla está en el suelo
+el machete está en el suelo
+la olla está en ese rincón
+la olla está junto al comal
+¿  dónde está el perro ? 
+está afuera de la casa
+está dentro de la casa parado
+está dentro de la casa echado
+¿  dónde está la iglesia ? 
+¿  dónde está el mercado ? 
+¿  dónde está tu casa ? 
+¿  dónde está tu casa ? 
+la iglesia está enfrente de aquella casa
+la iglesia está más adelante
+¿  dónde está el corral ? 
+el corral está atrás de la casa
+el corral estará adelante de la casa
+el corral está junto a la casa
+la ropa está en el baul
+los frijoles están en la olla
+el pájaro está en ese arbol
+la mosca está en la pared
+los perros están alrededor de la lumbre
+¿  cuántos perros tienes ? 
+¿  cuántos perros tienes ? 
+tengo un perro
+tengo un perro
+tienes un perro
+tienes un perro
+el tiene un perro
+el tiene un perro
+tenemos un perro
+tenemos un perro
+ustedes tienen un perro
+ustedes tienen un perro
+ellos tienen un perro
+ellos tienen un perro
+tengo dos perros
+tengo dos perros
+tienes dos perros
+tienes dos perros
+el tiene dos perros
+el tiene dos perros
+tenemos dos perros
+tenemos dos perros
+ustedes tienen dos perros
+ustedes tienen dos perros
+ellos tienen dos perros
+ellos tienen dos perros
+tenía un caballo
+tenía un caballo
+el año que viene voy a tener un caballo
+el año que viene voy a tener un caballo
+no tengo perro negro
+no tengo perro negro
+no tengo ninguna moneda
+no tengo ninguna moneda
+tengo agua para tomar
+¿  qué tienes ahí ? 
+¿  quién tiene el machete ? 
+yo lo tengo
+el maíz tiene gorgojo
+los perros tienen cola
+¿  tienen cola los perros ? 
+¿  acaso no tienen cola los perros ? 
+mi perro no tiene cola
+esa casa no tiene puerta
+esa casa no tiene puerta
+juan tiene poco pelo
+juan tiene mucho pelo
+¿  cómo es el pelo de juán ? 
+el pelo de juan es negro
+tengo el machete que me prestaste
+todavía tengo el machete que me regalaste
+todavía tengo el machete que me regalaste
+en casa tengo un machete que no es mío
+en casa tengo un machete que no es mío
+esta camisa tiene manchas
+este perro tiene manchas
+la comida tiene sal
+la comida no tiene sal
+la comida está salada
+la sopa tiene chile
+la olla tiene agua
+la olla no tiene agua
+¿  dónde tiene juan el mecate ? 
+juan tiene el mecate en la mano
+juan tiene una piedra en el bolsillo
+tengo dos hermanos
+tengo dos hermanos
+¿  cuántos hermanos tienes ? 
+¿  tiene usted jabón para vender ? 
+tengo gripa
+tuve gripa
+¿  tienes frio ? 
+sí
+no
+tengo dolor de cabeza
+tengo dolor de cabeza
+tengo prisa
+tengo hambre
+tengo sed
+tengo sueño
+tengo flojera
+tengo trabajo
+tengo pena
+soy penoso
+en la olla hay frijoles
+en la olla hay agua
+en la olla no hay frijoles
+en la olla no hay agua
+¿  hay frijoles en la olla ? 
+¿  no hay frijoles en la olla ? 
+sí hay
+no ,  no hay
+¿  en el monte no hay venados ? 
+en la casa hay gente
+en la casa no hay gente
+en la casa no había gente
+aquí hay cuatro tortillas
+aquí hay cuatro tortillas
+aquí hay una tortilla
+aquí hay una tortilla
+aquí hay agua
+aquí hay agua en un recipiente
+aquí no hay agua
+aquí no hay agua
+aquí no hay agua en un recipiente
+allá hay árboles
+hay una epidemia en el pueblo
+en mi pueblo hay mercado
+en mi pueblo hay mercado
+en ese pueblo hay casas muy grandes
+en ese pueblo hay casas muy grandes
+el zanate es un pájaro
+ese pájaro es un zanate
+ese pájaro es un zanate
+ese pájaro no es un zanate
+ese pájaro no es un zanate
+¿  qué pájaro es ese ? 
+¿  qué pájaro es ese ? 
+¿  qué pájaro es ese ? 
+juan es maestro
+juan es maestro
+juan es maestro
+juan no es maestro
+juan no es maestro
+juan no es maestro
+juan es el maestro
+juan es el maestro
+juan es el maestro
+juan no es el maestro
+juan no es el maestro
+juan no es el maestro
+¿  quién es maestro ? 
+¿  quién es maestro ? 
+¿  quién es el maestro ? 
+¿  quién es el maestro ? 
+juan es hijo mío
+juan es hijo mío
+juan es mi hijo
+juan es mi hijo
+¿  juan es maestro ? 
+¿  juan es maestro ? 
+¿  juan es maestro ? 
+yo soy hijo de don manuel
+yo no soy hijo de don manuel
+juan es brujo
+juan es brujo
+juan se volvió brujo
+esa canasta es mía
+esa canasta es tuya
+esa canasta es de él
+esa canasta es nuestra
+esa canasta es suya
+esa canasta es suya
+esa canasta no es mía
+esa canasta no es tuya
+esa canasta no es de él
+esa canasta no es nuestra
+esa canasta no es suya
+esa canasta no es suya
+mi canasta es esa
+mi canasta es esa
+mi canasta no es esa
+¿  de quién es esa canasta ? 
+¿  es tuya esta canasta ? 
+¿  es tuya esta canasta ? 
+¿  no es tuya esta canasta ? 
+¿  no es tuya esta canasta ? 
+¿  esta canasta es la tuya ? 
+¿  esta canasta es la tuya ? 
+este es el camino
+juan es de san andrés
+¿  de dónde es juan ? 
+¿  de dónde eres ? 
+¿  quien es de san andres ? 
+juan es un hombre bueno
+juan va a ser topil
+¿  qué va a ser juan ? 
+juan fue topil el año pasado
+juan fue topil el año pasado
+¿  cuándo fue topil juan ? 
+¿  cuándo fue topil juan ? 
+¿  qué fue juan el año pasado ? 
+¿  qué fue juan el año pasado ? 
+juan es hombre
+maría es una mujer
+yo soy hombre
+yo soy mujer
+¿  qué es esta comida ? 
+¿  qué es esta comida ? 
+es carne de armadillo
+yo soy el más joven
+yo no soy el más joven
+el hombre que esta sentado es juan
+juan es el que esta sentado
+juan es el que esta sentado
+mezquitic es cabecera municipal
+eduviges es nombre de mujer
+el hombre que salió es al que conozco
+el hombre que salió es al que conozco
+el que salió es al que no conozco
+el que salió es al que no conozco
+¿  qué es eso ? 
+es un perro
+el año que viene mi hijo ya va ser hombre
+juan se parece a maría
+juan se parece a maría
+juana se parece a su madre
+usted y su hijo se parecen mucho
+juan parece viejo
+juan parece maestro
+juan parece maestro
+¿  cómo te llamas ? 
+me llamo pedro
+me llamo pedro
+hace calor
+hace viento
+hace sol
+está lloviendo
+va a llover
+¿  con qué se hacen las tortillas ? 
+las tortillas se hacen con nixtamal
+¿  cómo se ve a tu pueblo ? 
+¿  cómo se ve a tu pueblo ? 
+¿  dónde venden azucar ? 
+ahí venden muchas cosas
+nombraron a juan presidente municipal
+juan me llamó tonto
+estoy durmiendo
+estás durmiendo
+está durmiendo
+está durmiendo
+estamos durmiendo
+están durmiendo
+están durmiendo
+están durmiendo
+duerme poco
+dueme mucho
+duerme de día
+duerme mucho de día
+duerme mucho de noche
+no duerme de día
+no duerme de noche
+el niño se durmió
+el niño se está durmiendo
+el niño se va a dormir
+el niño se durmió de nuevo
+el niño no durmió bien anoche
+el niño cai se durmió en el camión
+el pez muerto está flotando
+la madera flota en el agua
+ella siempre le pide tortillas a él
+ella siempre les pide tortillas
+ella siempre les pide tortillas
+yo siempre te pido tortillas
+yo siempre le pido tortillas
+yo siempre le pido tortillas
+yo siempre les pido tortillas
+tú siempre me pides tortillas
+tú siempre nos pides tortillas
+tú siempre les pides tortillas
+nosotros siempre te pedimos tortillas
+nosotros siempre le pedimos tortillas a él
+nosotros siempre les pedimos tortillas a ustedes
+nosotros siempre les pedimos tortillas a ellos
+ustedes siempre me piden tortillas
+ustedes siempre nos piden tortillas
+ustedes siempre les piden tortillas
+ellos siempre me piden tortillas
+ellos siempre te piden tortillas
+ellos siempre le piden tortillas a él
+ellos siempre nos piden tortillas
+ellos siempre les piden tortillas a ustedes
+ella me pidió tortillas para su madre
+¿  ella te pidió tortillas ? 
+sí ,  ella me pidió tortillas
+¿  quién te pidió tortillas ? 
+¿  qué te pidió ella ? 
+ella no me pidió tortillas
+ella a veces me pide tortillas
+ella nunca me pide tortillas
+él nunca me pidió tortillas
+ella me enseño esta canción
+ella me explicó el juego
+te ví ayer en el mercado
+lo vi ayer en el mercado
+los vi ayer en el mercado a ustedes
+los vi ayer en el mercado a ellos
+me viste ayer en el mercado
+los viste ayer en el mercado
+nos viste ayer en el mercado
+los viste ayer en el mercado
+me vió ayer en el mercado
+te vió ayer en el mercado
+lo vió ayer en el mercado
+nos vió ayer en el mercado
+los vio ayer en el mercado a ustedes
+los vio ayer en el mercado a ellos
+los vimos ayer en el mercado
+los vimos ayer en el mercado a ustedes
+los vimos ayer en el mercado a ellos
+ustedes me vieron ayer en el mercado
+ustedes nos vieron ayer en el mercado
+ustedes los vieron ayer en el mercado
+ustedes me vieron ayer en el mercado
+ellos te vieron ayer en el mercado
+ellos la vieron ayer en el mercado
+ellos nos vieron ayer en el mercado
+ellos los vieron a ustedes en el mercado
+ellos las vieron a ellas ayer en el mercado
+ayer no te vi en el mercado
+¿  me viste ayer en el mercado ? 
+¿  a quién viste ayer en el mercado ? 
+¿  qué viste ayer en el mercado ? 
+¿  dónde y cuando me viste ? 
+me pidió que le comprara un sombrero para él
+me pidió que le comprara un sombrero para él
+me pidió que le comprara un sombrero para su padre
+él ordenó que fueras a san andrés
+él te ordenó ir a san andrés
+él te dijo que fueras a san andres
+ella te acusó de haberle robado
+¿  qué sabes hacer ? 
+yo no se hacer nada
+yo no sé nada
+¿  sabes nadar ? 
+juan sólo sabe hablar español
+juan sólo sabe hablar español
+¿  sabes español ? 
+¿  sabes español ? 
+sé español
+sé español
+yo no sé nadar
+¿  cuándo supiste que yo había llegado ? 
+¿  cómo supiste que yo había llegado ? 
+te lo digo para que lo sepas
+te lo digo para que lo sepas
+¿  aprendiste español ? 
+mi abuela me enseñó a cantar
+mi abuela no me enseñó a cantar
+mi padre me enseñó a no robar
+mi padre me enseñó a no robar
+enséñame el camino
+enséñame lo que tienes en la mano
+vi muchos animales en el camino
+vi muchos animales en el camino
+vi lo que pasó en la casa
+vi que estabas comiendo solo
+quiero tortillas
+quiero ir temprano al mercado
+¿  qué quieres hacer ? 
+quiero quedarme aquí
+quiero que te quedes aquí
+no quiero que te quedes solo aquí
+juan quería que me quedara en su casa
+juan no quería que yo me quedara
+me prometiste una manzana
+me prometiste que me ibas a dar una manzana
+me prometiste llevarme a san andrés
+¿  crees en dios ? 
+creo que él se fue con juan
+dudo de que venga juan
+dudo de que venga juan
+no dudo de que venga juan
+dudo de su promesa
+no creo en su promesa
+no creo en lo que me dijo
+no sé quién viene
+no sé quién viene
+¿  sabes quién no viene ? 
+no sé quién vino
+no sé quién va a venir
+no sé a dónde va
+no sé por qué vino
+no sé por qué vino
+no sé de dónde vino
+no sé dónde vino
+no sé cómo arreglar la puerta
+no sé qué vende juan
+no supe quién vino
+no supe quién vino
+me olvidé de cerrar la puerta
+me olvidé de que llegabas hoy
+me olvidé su nombre
+¿  qué olvidaste ? 
+¿  qué olvidaste ? 
+¿  de qué te olvidaste ? 
+¿  esé pájaro puede volar mucho ? 
+ese pájaro puede volar mucho
+ese pájaro no puede volar
+no pude entrar en la casa porque la puerta estaba cerrada
+vas a poder cruzar el rio cuando tenga poca agua
+sé escribir ,  pero no puedo porque no tengo lápiz
+quiero subirme a ese árbol pero no puedo
+puedo subirme a ese árbol ,  pero no quiero
+tengo que trabajar
+ayer tuve que trabajar mucho
+tienes que trabajar
+hay que quemar la basura
+va a haber que quemar la basura
+no me gusta que te vayas
+acuérdate de que tenemos que trabajar
+no me gusta esa gente
+no me gusta esa comida
+acuérdate de barrer la casa
+acuérdate de barrer la casa
+me preguntó qué quería yo
+siempre pienso en mi familia
+mañana pienso salir temprano
+no sé cuál quiere
+acostumbro levantarme temprano
+no me acostumbro a la comida aquí
+lo acostumbró a levantarse temprano
+hoy empiezo a sembrar
+ayer empecé a sembrar
+mañana voy a empezar a sembrar
+hoy empieza la fiesta en el pueblo
+hoy acabo de sembrar
+ayer acabé de sembrar
+mañana voy a acabar de sembrar
+hoy voy a seguir sembrando
+ayer seguí sembrando
+¡  siga el camino ! 
+¡  siga el camino ! 
+¡  siga el camino ! 
+fui a verlo a su casa
+¿  has ido alguna vez a san andrés ? 
+¿  por qué no fueron ustedes ? 
+viene todos los días a buscar los caballos
+súbete a bajar ese aguacate
+ven a ayudarme
+ven a ayudarme a cargar el burro
+mis hijos se quedaron a cuidar la casa
+¡  baja a recogerlo ! 
+salió de la casa a saludarme
+estoy por ir al mercado
+estaba por ir al mercado ,  pero me quedé en casa
+hoy me pongo a trabajar
+dejó aquí la canasta
+dejó abierta la puerta
+déjalo entrar
+no dejó de trabajar ,  aunque estaba enfermo
+trabajó todos los días
+hace un año que no trabajo
+no trabajo desde ayer
+este año trabajé mucho
+siempre trabajo de tarde
+mañana trabajo
+¿  trabajarás ahora ? 
+¿  trabajarás ahora ? 
+¿  trabajarás mañana ? 
+¿  trabajarás mañana ? 
+hoy voy a trabajar otra vez
+juan ya está trabajando
+¡  empieza a trabajar ! 
+¡  empieza a trabajar ! 
+me dio pena no poder ayudarlo
+ese árbol se cayó
+el árbol se cayó
+se me hinchó la piel
+tengo el pie hinchado
+me ensucié la camisa con lodo
+me ensucié la camisa con lodo con varias manchas
+se me ensució la camisa con lodo
+el fuego arde bien
+el fuego arde bien
+tu casa está ardiendo
+quemé las tortillas
+las tortillas se quemaron
+las tortillas están quemadas
+me duele la cabeza
+mi hijo se enfermó
+mi hijo está enfermo
+estuve enfermo
+mi tía se murió
+mi tía se murió
+ese hombre está muerto
+juan se ríe mucho
+juan se ríe de ti
+a ese hombre lo mataron ayer
+me cansé en la subida
+ahora estoy cansado
+el caballo se cansó
+el caballo está cansado
+cansó el caballo
+maría está durmiendo al nene
+maría se durmió
+maría hizo dormir al nene
+juan va a agrandar la casa
+juan va a achicar la casa
+juan agranda la casa todos los años
+el chile se pone rojo cuando madura
+juan blanqueó la casa
+la olla es negra
+el humo ennegreció la olla
+este niño ahora es malo pero se va a hacer bueno
+juan me hizo reir
+juan me hizo reir varias veces
+agujereé la tabla
+la tabla está agujereada
+la tabla está agujereada
+enlodé la canasta
+la canasta está enlodada
+la canasta se enlodó
+la canasta tiene lodo en el asa
+el asa de la canastá está enlodada
+mi perro se murió aquí
+mi perro se murió alla
+juan mató a mi perro aquí
+juan mató a mi perro alla
+juan hizo matar a mi perro
+el me hizo matar a mi perro
+el me obligó a matar el perro
+yo traje la leña
+me hizo traer la leña
+maría calentó el agua
+el agua está caliente
+¡  no arrugues ese trapo ! 
+el trapo está arrugado
+maría lavo los platos
+los platos están lavados
+juan cerró la puerta
+juan abrió la puerta
+la puerta se abrió
+la puerta está abierta
+el caballo está corriendo
+juan está haciendo correr al caballo
+juan se sentó
+juan sentó al niño en la mesa
+esta milpa fue sembrada por mis hijos
+llegó cantando
+llegó cantando
+pasó silbando en plano
+pasó silbando hacia arriba
+pasó silbando hacia abajo
+pasó silbando dando la vuelta
+pasó sin verme
+llegó cansado
+se rió hasta caerse
+trabaja sin ganas
+trabaja sin ganas
+trabaja con ganas
+vino a pie
+vino a caballo
+salió con sombrero
+salió sin sombrero
+trabaja apurado
+lo amarró apenas
+lo amarró con dificultad
+me llamó a gritos
+¡  habla en voz alta ! 
+¡  habla en voz baja ! 
+¡  mantén el mecate tirante ! 
+¡  mantén el mecate firme ! 
+¡  mantén el brazo rígido ! 
+¡  mantén el brazo flojo ! 
+camina en línea recta
+¡  siéntate derecho ! 
+¡  siéntate derecho ! 
+arrojó la piedra con fuerza
+arrojó la piedra sin fuerza
+la espina se me clavó profundamente
+la espina se me claveo superficialmente
+¡  frota la herida con suavidad ! 
+¡  lévanta el costal poco a poco ! 
+¡  lévanta el costal de una vez ! 
+no cierresla puerta de golpe
+de día puedo caminar rápido
+de noche tengo que caminar despacio
+juan usa un mecate como cinturón
+¿  de qué murió tu tío ? 
+murió de viruela
+¿  cuánto cuesta esta canasta ? 
+cuesta un peso
+¿  cuánto pesa este costal ? 
+pesa diez kilos
+corta el mecate con el cuchillo
+¡  rómpelo con las manos ! 
+¡  rómpelo con las manos ! 
+¡  rómpelo con las manos ! 
+¡  atalo con este mecate ! 
+¿  cómo vas a llevar leña ? 
+la voy a llevar con el burro
+¿  en qué viniste del pueblo ? 
+vine en camión
+vine en mula
+las canastas se hacen de palma
+las ollas se hacen de barro
+¡  llena la olla con agua ! 
+¡  aparta la rama con el pie ! 
+para hacer adobe se mezcla lodo con paja
+vino con juan
+vino conmigo
+juan y pedro trabajan juntos
+¿  cuántas veces viniste ? 
+¿  dónde está sentado el niño ? 
+¿  dónde está sentado el niño ? 
+está sentado enfrente de mí encima de algo
+está sentado enfrente de mí en el suelo
+está sentado detrás de mi encima de algo
+está sentado delante de mi en el suelo
+está sentado junto a mí
+mi papá entró en la casa
+mi papá entró en la casa
+¿  a dónde entró tu papá ? 
+mi papá salió de la casa
+mi papá salió de la casa
+¿  de dónde salió tu papá ? 
+el gato se subió al arbol
+el gato se subió al arbol
+puso el dinero en el bolsillo
+sacó el dinero del bolsillo
+juan salió por la puerta
+juan salió por la puerta
+juan se cayó en el pozo
+juan se sentó en la silla
+juan se sentó en el suelo
+juan se cayó del techo
+juan se cayó sobre el techo
+juan viene de oaxaca
+juan viene del pueblo
+juan viene de la milpa
+juan no vino por el camino sino através de la milpa
+juan se cayó en el río
+juan se cayó en el río
+juan se tiró al río
+juan se está bañando en el río
+vayamos hasta el rio
+juan llegó hasta mi casa y no quiso seguir caminando
+juan anduvo por mi casa
+juan vino por el lado del río
+juan vino por el lado del río
+en medio del camino hay una piedra grande
+en medio del camino hay una piedra grande
+al lado del camino hay arboles
+hay una mosca en el centro del comal
+el comal se partió por enmedio
+juan es el de enmedio
+vamos a sembrar de este lado de la casa
+¿  siembran ustedes en la orilla del camino ? 
+el hombre salió
+el hombre salió
+el hombre está borracho
+el hombre que salió estaba borracho
+el hombre que salió estaba borracho
+el hombre salió borracho
+el hombre salió borracho
+vi al hombre que estaba borracho
+encontré borracho al hombre
+vine con el hombre que estaba borracho
+¿  cuál de los hombre que estaban borrachos salió ? 
+¿  cuál de los hombre que estaban borrachos salió ? 
+el hombre que mató el perro aquí
+el hombre que mató el perro allá
+el perro estaba mordiendo al hombre
+el hombre mató al perro que lo estaba mordiendo
+el perro me estaba mordiendo
+el perro estaba enfermo
+el perro que mató ese hombre estaba enfermo
+el perro que mató ese hombre me estaba mordiendo
+¿  cuál de los hombres que mataron al perro salió ? 
+¿  cuál de los hombres que mataron al perro salió ? 
+salió el hombre al que le maté el perro
+salió el hombre al que le maté el perro
+el hombre salió de la casa en la que mató al perro
+el hombre salió de la casa en la que mató al perro
+encontré el machete donde lo dejaste
+vine en camión desde donde nos separamos
+dame la botella que tiene agua
+dame la botella que tiene agua
+dame una botella que tenga agua
+dame la caja donde guarrdas los cerillos
+dame el cuchillo con que cortas la carne
+no conozco al señor con el que viniste
+vi al señor al que le vendiste las gallinas
+este es el señor que vimos sembrando
+el es viejo
+el es más viejo
+el más viejo se murió
+el borde del comal está quebrado
+el caballo de juan se murió
+el techo de la casa se cayó
+el techo de la casa de mi padre se cayo
+el mango del machete está quebrado
+el agua de este pozo es mala
+el agua del río esta sucia
+tengo un cinturón de piel
+el agua de la olla está hirviendo
+el viento del norte es frío
+el costal para el café está agujereado
+el costal para el café está agujereado con varios agujeros
+el perro negro es mío
+ese perro negro chico es mío
+la pared de ladrillos es más fuerte que la de adobe
+él más alto que yo
+él es más alto que tu hijo
+él es tan alto como yo
+él es tan alto como yo
+él vino antes que yo
+él vino antes que tu hijo
+él vino más tarde que yo
+él vino más tarde que tu hijo
+él es menos rápido que tu hijo
+él trabaja tan bien como yo
+él trabaja tan bien como tu hijo
+voy a comprar casi todas esas gallinas blancas
+algunos de esos niños están enfermos
+casi todos esos niños están enfermos
+ninguno de los niños está enfermo
+cada uno de estos niños comió un dulce
+cualquiera de estos niños te llamará
+cualquiera de estos niños te llamará varias veces
+muchos de estos niños están enfermos
+pocos de estos niños están enfermos
+bastantes niños están enfermos
+bastantes niños están enfermos
+vendí muchos sarapes
+vendí algunos sarapes
+vendí pocos sarapes
+vendí bastantes sarapes
+comió demasiado de está comida
+comió demasiados chiles
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
+diez
+veinte
+cien
+tengo un caballo
+tengo un caballo
+tengo dos bueyes negros
+tengo dos bueyes negros
+fui a su casa una vez
+fui a su casa dos veces
+fui a su casa tres veces
+los hombres salieron de la casa uno por uno
+los hombres salieron de la casa de dos en dos
+los hombres salieron de la casa de tres en tres
+agarren una piedra cada uno
+¡  hagan una señal cada dos árboles ! 
+juan se fue para que no lo vieras
+juan vino para que lo vieras
+compré la carreta para llevar la leña
+compré la carreta para llevar la leña
+compré la carreta para que lleves la leña
+voy a ir aunque llueva
+si vas a ir apúrate
+si lo veo le pido el machete
+si lo hubiera visto le habría pedido el machete
+me voy porque no estoy trabajando
+no va solo porque tiene miedo
+juan estaba durmiendo cuando llegaste
+juan estuvo durmiendo hasta que llegaste
+juan estuvo durmiendo desde que llegaste
+juan estuvo dormido antes de que llegaras
+juan va a dormir cuando llegues
+juan va a dormir hasta que llegues
+juan va a dormir hasta que llegues
+no me molestes cuando como
+si quieren irse que se vayan
+juan se va sembrar chile y yo también
+juan va a sembrar chile pero yo no
+juan no va a sembrar pero yo sí
+no quiero nada de eso
+¿  quiere algo de esto ? 
+no puedo caminar solo
+ya sólo puedo trabajar en la mañana
+ya sólo puedo trabajar en la mañana
+ya mero voy
+ahora es tarde para ir a trabajar
+ahora es temprano para ir a trabajar
+esta planta es buena para comer
+esta planta es buena para esa enfermedad
+esta planta es mala para esa enfermedad
+juan es bueno para caminar
+esta tierra es demasiado dura para sembrar
+ahora es raro ver venados en el monte
+ese caballo es difícil de de amansar
+ojalá venga pronto
+puede que venga pronto
+no ,  deme menos
+¿  quiere mucho ? 
+no ,  deme poco
+no ,  deme poco
