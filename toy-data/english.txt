@@ -1,0 +1,914 @@
+this house is big
+this house is not big
+this house is small
+this house is not small
+this house is new
+this house is not new
+this house is old
+this house is not old
+this house is white
+this house is not white
+how is that house ?
+how big is that house ?
+is that house new ?
+yes , it's new
+no , it is not new
+yes
+no
+i'm tall
+you're tall
+he is tall
+she is tall
+we are tall
+you are tall
+they are tall
+i'm short
+you are short
+he is short
+we are short
+you are short
+they are short
+i'm fat
+you are fat
+he is fat
+we are fat
+you are fat
+they are fat
+i am skinny
+you are thin
+he is thin
+we are skinny
+you are skinny
+they are skinny
+my house is big
+the house is big
+his house is big
+our house is big
+your house is big
+their house is big
+chili is red
+the chiles are already red
+the chiles are not red yet
+that tree is big
+that tree is going to be big
+that tree was already big
+that tree became big
+the chiles are going to turn red
+this hat is the same as yours
+this hat is not the same as yours
+these hats are different
+what color is that skirt ?
+that skirt is black and white
+is your horse black or white ?
+my horse is neither black nor white , it is brown
+how is the food ?
+how is the food ?
+the food is hot
+the food is cold
+the water is very cold
+the water is quite cold
+the water is too cold
+that pot is dirty
+that pot is dirty inside
+that pot is not dirty
+that pot is not dirty inside
+that pot is clean
+that pot is clean inside
+that pot is not clean
+that pot is not clean inside
+the town is near here
+the town is far from here
+is the town far ?
+john is now in san andrés
+where is john now ?
+are you in san andres now ?
+is san andrés where that is ?
+john was in san andrés yesterday
+where was john yesterday ?
+where is your dad ?
+is your dad at home ?
+is your dad not at home ?
+my dad is at home
+my dad is not at home
+my dad is always at home
+my dad is always at home
+my dad is in the milpa
+my dad is in the market
+my dad is in the river
+my dad is with don manuel
+who is your dad with ?
+is your dad here ?
+where is the pot ?
+where is the machete ?
+the pot is on the ground
+the machete is on the ground
+the pot is in that corner
+the pot is next to the comal
+where is the dog ?
+is outside the house
+he is standing inside the house
+he is lying inside the house
+where is the church ?
+where is the market ?
+where is your house ?
+where is your house ?
+the church is in front of that house
+the church is ahead
+where is the corral ?
+the corral is behind the house
+the corral will be in front of the house
+the corral is next to the house
+the clothes are in the trunk
+the beans are in the pot
+the bird is in that tree
+the fly is on the wall
+the dogs are around the fire
+how many dogs do you have ?
+how many dogs do you have ?
+i have a dog
+i have a dog
+you have a dog
+you have a dog
+he has a dog
+he has a dog
+we have a dog
+we have a dog
+you have a dog
+you have a dog
+they have a dog
+they have a dog
+i have two dogs
+i have two dogs
+you have two dogs
+you have two dogs
+he has two dogs
+he has two dogs
+we have two dogs
+we have two dogs
+you have two dogs
+you have two dogs
+they have two dogs
+they have two dogs
+i had a horse
+i had a horse
+i will have a horse next year
+i will have a horse next year
+i don't have a black dog
+i don't have a black dog
+i don't have any currency
+i don't have any currency
+i have water to drink
+what have you got there ?
+who has the machete ?
+i have it
+corn has weevil
+dogs have tails
+do dogs have tails ?
+don't dogs have tails ?
+my dog has no tail
+that house has no door
+that house has no door
+john has little hair
+john has a lot of hair
+how is john's hair ?
+john's hair is black
+i have the machete that you lent me
+i still have the machete you gave me
+i still have the machete you gave me
+i have a machete that is not mine at home
+i have a machete that is not mine at home
+this shirt has stains
+this dog has spots
+the food has salt
+the food has no salt
+the food is salty
+the soup has chili
+the pot has water
+the pot has no water
+where does john have the mecate ?
+john has the rope in his hand
+john has a stone in his pocket
+i have two brothers
+i have two brothers
+how many brothers you have ?
+do you have soap to sell ?
+i have the flu
+i had the flu
+are you cold ?
+yes
+no
+i have a headache
+i have a headache
+i'm in a hurry
+i'm hungry
+i'm thirsty
+i'm sleepy
+i'm lazy
+i have work
+i'm ashamed
+i'm pitiful
+in the pot there are beans
+there is water in the pot
+there are no beans in the pot
+there is no water in the pot
+are there beans in the pot ?
+are there no beans in the pot ?
+yes there is
+no , there is not
+in the mount there are no deer ?
+there are people in the house
+there are no people in the house
+there were no people in the house
+here are four tortillas
+here are four tortillas
+here is an omelette
+here is an omelette
+here is water
+here is water in a container
+there is no water here
+there is no water here
+there is no water in a container here
+there are trees
+there is an epidemic in the village
+there is a market in my town
+there is a market in my town
+there are very big houses in that town
+there are very big houses in that town
+the grackle is a bird
+that bird is a grackle
+that bird is a grackle
+that bird is not a grackle
+that bird is not a grackle
+what bird is that ?
+what bird is that ?
+what bird is that ?
+john is a teacher
+john is a teacher
+john is a teacher
+john is not a teacher
+john is not a teacher
+john is not a teacher
+john is the teacher
+john is the teacher
+john is the teacher
+john is not the teacher
+john is not the teacher
+john is not the teacher
+who is a teacher ?
+who is a teacher ?
+who is the teacher ?
+who is the teacher ?
+john is my son
+john is my son
+john is my son
+john is my son
+is john a teacher ?
+is john a teacher ?
+is john a teacher ?
+i am the son of don manuel
+i am not the son of don manuel
+john is a sorcerer
+john is a sorcerer
+john became a witch
+that basket is mine
+that basket is yours
+that basket is his
+that basket is ours
+that basket is yours
+that basket is yours
+that basket is not mine
+that basket is not yours
+that basket is not his
+that basket is not ours
+that basket is not yours
+that basket is not yours
+my basket is that
+my basket is that
+my basket is not that
+whose basket is that ?
+is this basket yours ?
+is this basket yours ?
+isn't this basket yours ?
+isn't this basket yours ?
+is this basket yours ?
+is this basket yours ?
+this is the way
+john is from san andres
+where is john from ?
+where are you from ?
+who is from san andres ?
+john is a good man
+john is going to be topil
+what will be john ?
+john was topil last year
+john was topil last year
+when was john topil ?
+when was john topil ?
+what was john last year ?
+what was john last year ?
+john is a man
+mary is a woman
+i am a man
+i'm a woman
+what is this food ?
+what is this food ?
+it's armadillo meat
+i'm the youngest
+i am not the youngest
+the man who is sitting is john
+john is the one sitting
+john is the one sitting
+mesquitic is the municipal seat
+eduviges is a woman's name
+the man who came out is the one i know
+the man who came out is the one i know
+the one who came out is the one i don't know
+the one who came out is the one i don't know
+what is that ?
+it's a dog
+next year my son will be a man
+john looks like mary
+john looks like mary
+johna looks like her mother
+you and your son look a lot alike
+john looks old
+john looks like a teacher
+john looks like a teacher
+what is your name ?
+my name is peter
+my name is peter
+it's hot
+it's windy
+it's sunny
+it's raining
+it will rain
+what are tortillas made with ?
+tortillas are made with nixtamal
+how do you see your town ?
+how do you see your town ?
+where do they sell sugar ?
+they sell a lot of things there
+they appointed john municipal president
+john called me stupid
+i'm sleeping
+you are sleeping
+he is sleeping
+he is sleeping
+we are sleeping
+you all are sleeping
+they are sleeping
+they are sleeping
+she sleep a little
+it hurts a lot
+she sleeps during the day
+he sleeps a lot during the day
+he sleep a lot at night
+she does not sleep during the day
+she does not sleep at night
+the boy fell asleep
+the child is sleeping
+the child goes to sleep
+the boy fell asleep again
+the boy did not sleep well last night
+cai fell asleep in the truck
+the dead fish is floating
+wood floats on water
+she always asks him for tortillas
+she always asks for tortillas
+she always asks for tortillas
+i always ask you for tortillas
+i always ask for tortillas
+i always ask for tortillas
+i always ask for tortillas
+you always ask me for tortillas
+you always ask us for tortillas
+you always ask them for tortillas
+we always ask you for tortillas
+we always ask him for tortillas
+we always ask you for tortillas
+we always ask them for tortillas
+you always ask me for tortillas
+you always ask us for tortillas
+you always ask for tortillas
+they always ask me for tortillas
+they always ask you for tortillas
+they always ask him for tortillas
+they always ask us for tortillas
+they always ask you for tortillas
+she asked me for tortillas for her mother
+did she ask you for tortillas ?
+yes , she asked me for tortillas
+who asked you for tortillas ?
+what did she ask you ?
+she didn't ask me for tortillas
+she sometimes asks me for tortillas
+she never asks me for tortillas
+he never asked me for tortillas
+she taught me this song
+she explained the game to me
+i saw you in the market yesterday
+i saw it in the market yesterday
+i saw you in the market yesterday
+i saw them in the market yesterday
+you saw me in the market yesterday
+you saw them in the market yesterday
+you saw us in the market yesterday
+you saw them in the market yesterday
+he saw me in the market yesterday
+saw you in the market yesterday
+saw it in the market yesterday
+he saw us in the market yesterday
+saw you in the market yesterday
+he saw them yesterday in the market
+we saw them in the market yesterday
+we saw you in the market yesterday
+we saw them in the market yesterday
+you saw me in the market yesterday
+you saw us in the market yesterday
+you saw them in the market yesterday
+you saw me in the market yesterday
+they saw you in the market yesterday
+they saw her in the market yesterday
+they saw us in the market yesterday
+they saw you in the market
+they saw them yesterday in the market
+i did not see you in the market yesterday
+did you see me in the market yesterday ?
+who did you see in the market yesterday ?
+what did you see in the market yesterday ?
+where and when did you see me ?
+he asked me to buy a hat for him
+he asked me to buy a hat for him
+he asked me to buy a hat for his father
+he ordered you to go to san andrés
+he ordered you to go to san andrés
+he told you to go to san andres
+she accused you of stealing from her
+what do you know ?
+i don't know how to do anything
+i do not know anything
+you know how to swim ?
+john only knows how to speak spanish
+john only knows how to speak spanish
+do you know spanish ?
+do you know spanish ?
+i know spanish
+i know spanish
+i do not know how to swim
+when did you know that i had arrived ?
+how did you know that i had arrived ?
+i'm telling you so you know
+i'm telling you so you know
+you learned spanish ?
+my grandmother taught me to sing
+my grandmother did not teach me to sing
+my father taught me not to steal
+my father taught me not to steal
+show me the way
+show me what you have in your hand
+i saw many animals on the way
+i saw many animals on the way
+i saw what happened in the house
+i saw that you were eating alone
+i want tortillas
+i want to go to the market early
+what do you want to do ?
+i want to stay here
+i want you to stay here
+i don't want you to stay here alone
+john wanted me to stay at his house
+john didn't want me to stay
+you promised me an apple
+you promised me you were going to give me an apple
+you promised to take me to san andrés
+do you believe in god ?
+i think he went with john
+i doubt that john will come
+i doubt that john will come
+i have no doubt that john will come
+i doubt your promise
+i don't believe in your promise
+i don't believe what he told me
+i don't know who's coming
+i don't know who's coming
+do you know who does not come ?
+i don't know who came
+i don't know who will come
+i don't know where it goes
+i don't know why he came
+i don't know why he came
+i don't know where it came from
+i don't know where it came from
+i don't know how to fix the door
+i don't know what john sells
+i didn't know who came
+i didn't know who came
+i forgot to close the door
+i forgot that you arrived today
+i forgot his name
+what did you forget ?
+what did you forget ?
+what did you forget ?
+can this bird fly a lot ?
+that bird can fly a lot
+that bird can't fly
+i couldn't get into the house because the door was locked
+you will be able to cross the river when it has little water
+i know how to write , but i can't because i don't have a pencil
+i want to climb that tree but i can't
+i can climb that tree , but i don't want to
+i have to work
+yesterday i had to work a lot
+you have to work
+you have to burn the garbage
+we will have to burn the garbage
+i don't like that you go
+remember that we have to work
+i don't like those people
+i do not like that food
+remember to sweep the house
+remember to sweep the house
+he asked me what i wanted
+i always think of my family
+i plan to leave early tomorrow
+i don't know which one you want
+i usually get up early
+i can't get used to the food here
+got him used to getting up early
+i start to sow today
+yesterday i started planting
+i'm going to start planting tomorrow
+the party begins in the village today
+i just planted today
+i finished planting yesterday
+i will finish planting tomorrow
+i will continue sowing today
+i kept planting yesterday
+follow the path !
+follow the path !
+follow the path !
+i went to see him at his house
+have you ever been to san andres ?
+why didn't you go ?
+he comes every day to look for the horses
+hop on down that avocado
+come to help me
+come help me load the donkey
+my children stayed to take care of the house
+come down and pick it up !
+he came out of the house to greet me
+i'm about to go to the market
+i was about to go to the market , but i stayed home
+today i start to work
+he left the basket here
+he left the door open
+let him in
+he did not stop working , even though he was sick
+i work everyday
+i haven't worked for a year
+i haven't worked since yesterday
+i worked a lot this year
+i always work late
+i work tomorrow
+will you work now ?
+will you work now ?
+will you work tomorrow ?
+will you work tomorrow ?
+i'm going to work again today
+john is already working
+start working !
+start working !
+i'm sorry i couldn't help you
+that tree fell
+the tree fell
+my skin swelled
+i have a swollen foot
+i got mud on my shirt
+i soiled my shirt with mud with several stains
+my shirt got dirty with mud
+the fire burns well
+the fire burns well
+your house is burning
+i burned the tortillas
+the tortillas were burned
+the tortillas are burnt
+my head hurts
+my son got sick
+my son is sick
+i was sick
+my aunt died
+my aunt died
+that man is dead
+john laughs a lot
+john laughs at you
+that man was killed yesterday
+i got tired on the way up
+now i'm tired
+the horse got tired
+the horse is tired
+the horse tired
+mary is sleeping the baby
+mary fell asleep
+mary made the baby sleep
+john is going to enlarge the house
+john is going to shrink the house
+john enlarges the house every year
+chili turns red when ripe
+john whitewashed the house
+the pot is black
+the smoke blackened the pot
+this boy is bad now but he is going to be good
+john made me laugh
+john made me laugh several times
+i made holes in the table
+the table is holed
+the table is holed
+i muddied the basket
+the basket is muddy
+the basket got muddy
+the basket has mud on the handle
+the handle of the basket is muddy
+my dog died here
+my dog died there
+john killed my dog here
+john killed my dog there
+john had my dog killed
+he made me kill my dog
+he forced me to kill the dog
+i brought the firewood
+he made me bring the firewood
+mary heated the water
+the water is hot
+don't wrinkle that rag !
+the cloth is wrinkled
+mary washed the dishes
+the dishes are washed
+john closed the door
+john opened the door
+the door opened
+the door is open
+the horse is running
+john is making the horse run
+john sat down
+john sat the boy at the table
+this milpa was planted by my children
+he came singing
+he came singing
+he whistled past flat
+he whistled up
+she whistled down
+he whistled past
+he passed without seeing me
+he arrived tired
+he laughed until he fell
+work without desire
+work without desire
+work hard
+she came on foot
+he came on horseback
+he came out with a hat
+he came out without a hat
+work in a hurry
+just tied it
+they tied it with difficulty
+he yelled at me
+speak out loud !
+speak in low voice !
+keep the rope tight !
+keep the cord steady !
+keep your arm stiff !
+keep your arm loose !
+walk in a straight line
+sit straight !
+sit straight !
+he threw the stone with force
+he threw the stone without force
+the thorn pierced me deep
+the thorn stuck in me superficially
+rub the wound gently !
+lift the sack little by little !
+pick up the sack at once !
+don't slam the door
+i can walk fast during the day
+i have to walk slowly at night
+john uses a rope as a belt
+what did your uncle die of ?
+died of smallpox
+how much does this basket cost ?
+it costs a peso
+how much does this bag weigh ?
+it weighs ten kilos
+cut the rope with the knife
+break it with your hands !
+break it with your hands !
+break it with your hands !
+tie it with this cord !
+how are you going to carry firewood ?
+i'm going to take her with the donkey
+what did you come from town ?
+i came by truck
+i came on a mule
+the baskets are made of palm
+the pots are made of clay
+fill the pot with water !
+push the branch away with your foot !
+mud is mixed with straw to make adobe
+she came with john
+he came with me
+john and peter work together
+how many times did you come ?
+where is the boy sitting ?
+where is the boy sitting ?
+he is sitting in front of me on something
+he's sitting across from me on the floor
+he's sitting behind me on something
+he is sitting in front of me on the floor
+he is sitting next to me
+my dad came into the house
+my dad came into the house
+where did your dad go ?
+my dad left the house
+my dad left the house
+where did your dad come from ?
+the cat climbed the tree
+the cat climbed the tree
+put the money in the pocket
+he took the money out of his pocket
+john walked out the door
+john walked out the door
+john fell into the well
+john sat on the chair
+john sat on the floor
+john fell from the roof
+john fell on the roof
+john comes from oaxaca
+john comes from town
+john comes from the milpa
+john did not come along the road but through the milpa
+john fell into the river
+john fell into the river
+john jumped into the river
+john is bathing in the river
+let's go to the river
+john came to my house and did not want to continue walking
+john walked by my house
+john came by the side of the river
+john came by the side of the river
+in the middle of the road there is a big stone
+in the middle of the road there is a big stone
+next to the road there are trees
+there is a fly in the center of the griddle
+the comal split in the middle
+john is the one in the middle
+we are going to plant on this side of the house
+do you plant on the side of the road ?
+the man came out
+the man came out
+the man is drunk
+the man who came out was drunk
+the man who came out was drunk
+the man came out drunk
+the man came out drunk
+i saw the man who was drunk
+i found the man drunk
+i came with the man who was drunk
+which of the men who were drunk came out ?
+which of the men who were drunk came out ?
+the man who killed the dog here
+the man who killed the dog there
+the dog was biting the man
+the man killed the dog that was biting him
+the dog was biting me
+the dog was sick
+the dog that man killed was sick
+the dog that man killed was biting me
+which of the men who killed the dog came out ?
+which of the men who killed the dog came out ?
+the man whose dog i killed came out
+the man whose dog i killed came out
+the man left the house where he killed the dog
+the man left the house where he killed the dog
+i found the machete where you left it
+i came by truck from where we parted ways
+give me the bottle that has water
+give me the bottle that has water
+give me a bottle that has water
+give me the box where you keep the matches
+give me the knife with which you cut the meat
+i don't know the lord you came with
+i saw the man you sold the chickens to
+this is the man we saw sowing
+he is old
+he is older
+the oldest died
+the edge of the griddle is broken
+john's horse died
+the roof of the house fell
+the roof of my father's house fell
+the machete handle is broken
+the water in this well is bad
+the river water is dirty
+i have a leather belt
+the water in the pot is boiling
+the north wind is cold
+the coffee bag has a hole
+the coffee bag is pierced with several holes
+the black dog is mine
+that boy black dog is mine
+brick wall is stronger than adobe wall
+he taller than me
+he is taller than your son
+he is as tall as me
+he is as tall as me
+he came before me
+he came before your son
+he came later than me
+he came later than your son
+he is less fast than your son
+he works as well as me
+he works as well as your son
+i'm going to buy almost all those white chickens
+some of those kids are sick
+almost all those children are sick
+none of the children are sick
+each of these children ate a piece of candy
+any of these children will call you
+any of these children will call you several times
+many of these children are sick
+few of these children are sick
+many children are sick
+many children are sick
+i sold many serapes
+i sold some serapes
+i sold few serapes
+i sold a lot of serapes
+ate too much of this food
+ate too many chilies
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+twenty
+one hundred
+i have a horse
+i have a horse
+i have two black oxen
+i have two black oxen
+i went to his house once
+i went to his house twice
+i went to his house three times
+the men left the house one by one
+the men left the house two by two
+the men left the house three by three
+grab a stone each of you
+make a sign every two trees !
+john left so you wouldn't see him
+john came for you to see him
+i bought the cart to carry the firewood
+i bought the cart to carry the firewood
+i bought the cart for you to carry the firewood
+i'm going even if it rains
+if you're going to go hurry up
+if i see him i ask him for the machete
+if i had seen him , i would have asked him for the machete .
+i'm leaving because i'm not working
+he does not go alone because he is afraid
+john was sleeping when you arrived
+john was sleeping until you arrived
+john has been sleeping since you arrived
+john was asleep before you arrived
+john is going to sleep when you arrive
+john is going to sleep until you arrive
+john is going to sleep until you arrive
+don't bother me when i eat
+if they want to go , let them go
+john is going to plant chili and so am i .
+john is going to plant chili but i am not .
+john is not going to plant but i am
+i don't want any of that
+do you want any of this ?
+i can't walk alone
+i can only work in the morning
+i can only work in the morning
+i'm just going
+now it's late to go to work
+now it's early to go to work
+this plant is good to eat
+this plant is good for that disease
+this plant is bad for that disease
+john is good at walking
+this land is too hard to sow
+now it is rare to see deer in the bush
+that horse is difficult to tame
+i hope it comes soon
+they may come soon
+no , give me less
+do you want a lot ?
+no , give me a little
+no , give me a little
